@@ -1,7 +1,7 @@
 {
-  "name": "CypherX",
-  "description": "CypherX, your friendly assistant!",
-  "logo": "https://i.ibb.co/nqsRcKDB/Xploader4.jpg",
+  "name": "SAQIB SARWAR",
+  "description": "GHAZI, your friendly assistant!",
+  "logo": "https://ibb.co/6RZmcSSX",
   "keywords": [],
   "repository": "https://github.com/Dark-Xploit/CypherX",
   "stack": "container",
@@ -15,7 +15,7 @@
   },
 "env": {
   "SESSION_ID": {
-    "description": "Must begin with 'XPLOADER-BOT:~' or 'CYPHER-X:~'.",
+    "description": "Must begin with 'XPLOADER-BOT:~' or 'GHAZI:~'.",
     "value": "",
     "required": false
   }
